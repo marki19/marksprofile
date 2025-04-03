@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+.portfolio-image img {
+        display: none;
+    }
+
 :root {
     --primary: #800020; /* Burgundy */
     --primary-dark: #6a001a; /* Darker Burgundy */
